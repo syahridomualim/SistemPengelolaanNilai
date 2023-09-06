@@ -6,7 +6,7 @@ import java.util.stream.Collectors;
 
 public class Util {
 
-    private static final String FILE_NAME = "E:\\Document\\IDP\\java-level-3\\SistemPengelolaanNilai\\src\\main\\resources\\data_sekolah.csv";
+    private static final String FILE_NAME = "C:\\temp\\direktori\\data_sekolah.csv";
 
     public static void showHeader() {
         System.out.println("--------------------------------");
